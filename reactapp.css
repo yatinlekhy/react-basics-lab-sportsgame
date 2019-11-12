@@ -1,0 +1,8 @@
+body {
+    background: #adff2f;
+}
+.status {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  } 
